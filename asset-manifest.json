@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nameWars/static/css/main.af98b635.chunk.css",
+    "main.js": "/nameWars/static/js/main.dbfe3eb6.chunk.js",
+    "main.js.map": "/nameWars/static/js/main.dbfe3eb6.chunk.js.map",
+    "runtime-main.js": "/nameWars/static/js/runtime-main.2f277f8c.js",
+    "runtime-main.js.map": "/nameWars/static/js/runtime-main.2f277f8c.js.map",
+    "static/js/2.e19b98bd.chunk.js": "/nameWars/static/js/2.e19b98bd.chunk.js",
+    "static/js/2.e19b98bd.chunk.js.map": "/nameWars/static/js/2.e19b98bd.chunk.js.map",
+    "index.html": "/nameWars/index.html",
+    "precache-manifest.8c270db68a2a3315ce0316caeab4971a.js": "/nameWars/precache-manifest.8c270db68a2a3315ce0316caeab4971a.js",
+    "service-worker.js": "/nameWars/service-worker.js",
+    "static/css/main.af98b635.chunk.css.map": "/nameWars/static/css/main.af98b635.chunk.css.map",
+    "static/js/2.e19b98bd.chunk.js.LICENSE.txt": "/nameWars/static/js/2.e19b98bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f277f8c.js",
+    "static/js/2.e19b98bd.chunk.js",
+    "static/css/main.af98b635.chunk.css",
+    "static/js/main.dbfe3eb6.chunk.js"
+  ]
+}
